@@ -1,0 +1,19 @@
+.TableWrapper {
+  width: 100%;
+  max-height: calc(100vh - 345px);
+  overflow: auto;
+  margin-top: -4px;
+  -ms-overflow-style: none; /* for Internet Explorer, Edge */
+  scrollbar-width: none; /* for Firefox */
+  overflow-y: scroll;
+}
+
+.TableWrapper::-webkit-scrollbar {
+  display: none; /* for Chrome, Safari, and Opera */
+}
+
+.Table {
+  border-collapse: collapse;
+  width: 100%;
+  text-align: left;
+}

@@ -1,0 +1,21 @@
+.Button {
+  background-color: transparent;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  padding: 6px 15px 5px;
+  font-weight: 700;
+  font-size: 16px;
+  text-align: center;
+}
+
+.Button.primary {
+  background: linear-gradient(180deg, #3EAEFF 0%, #00AAE0 100%);
+  box-shadow: 0px 0px 0px 3px rgba(0, 170, 224, 0.19);
+  color: #FFFFFF;
+}
+
+.Button.secondary {
+  background: rgba(0, 163, 255, 0.1);
+  color: #00A3FF;
+}

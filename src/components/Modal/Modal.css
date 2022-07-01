@@ -1,0 +1,18 @@
+.ModalOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  backdrop-filter: blur(40px);
+}
+
+.ModalCard {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  width: calc(100vw - 40px);
+  padding: 33px;
+  background: rgba(255, 255, 255, 0.12);
+  border-radius: 16px;
+}

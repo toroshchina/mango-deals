@@ -1,0 +1,16 @@
+.AlertIcon {
+  padding: 24px;
+  background: rgba(0, 255, 163, 0.4);
+  box-shadow: 0px 0px 0px 8px rgba(0, 255, 163, 0.1);
+  border-radius: 40px;
+  width: 130px;
+  height: 130px;
+  margin: 72px auto 17px;
+}
+
+.AlertMessage {
+  color: #FFFFFF;
+  font-size: 24px;
+  font-weight: 700;
+  text-align: center;
+}

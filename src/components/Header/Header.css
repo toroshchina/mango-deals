@@ -1,0 +1,21 @@
+.Header {
+  background: linear-gradient(180deg, #1F252F 0%, #27303E 100%);
+  padding: 15px 20px;
+  display: flex;
+}
+
+.Header-logo {
+  width: 36px;
+  height: 36px;
+  margin: -4px 0px -2px;
+}
+
+.Header-brand {
+  width: 140px;
+  height: 27px;
+  margin: 1px 7px 2px;
+}
+
+.Header .Button {
+  margin-left: auto;
+}

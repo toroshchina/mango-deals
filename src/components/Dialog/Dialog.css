@@ -1,0 +1,25 @@
+.DialogHeader {
+  display: flex;
+}
+
+.DialogTitle{
+  font-size: 24px;
+  font-weight: 700;
+  flex: 1;
+}
+
+.DialogBody{
+  padding: 40px 0;
+}
+
+.DialogFooter{
+  background: rgba(0, 0, 0, 0.1);
+  padding: 33px;
+  text-align: center;
+  margin: 0 -33px -33px;
+}
+
+.DialogButton{
+  width: 120px;
+  height: 48px;
+}

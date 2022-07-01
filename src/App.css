@@ -1,0 +1,28 @@
+.TableBodyCell.bold {
+  font-weight: 700;
+}
+
+.TableBodyRow.transparent {
+  background-color: transparent !important;
+  border-bottom: none;
+}
+
+.TableBodyCell.right {
+  text-align: right;
+}
+
+.TableBodyCell.center {
+  text-align: center;
+}
+
+.Button.icon {
+  padding: 0;
+}
+
+.Button.load {
+  margin: 24px 0;
+}
+
+.Button.icon .delete {
+  padding: 0;
+}

@@ -1,0 +1,24 @@
+.InputLabel {
+  color: #9AA5BE;
+}
+
+.Input {
+  display: block;
+  width: 100%;
+  margin-top: 10px;
+  font-size: 18px;
+  font-weight: 700;
+  padding: 14px 20px;
+  border: 1px solid #3C4251;
+  border-radius: 6px;
+  color: #FFFFFF;
+  background: rgba(44, 51, 61, 0.5);
+}
+
+.Input:focus-visible {
+  outline: #00A3FF solid 1px;
+}
+
+.Input:disabled {
+  color: #9AA5BE;
+}

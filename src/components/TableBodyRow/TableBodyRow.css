@@ -1,0 +1,19 @@
+.TableBodyRow {
+  border-top: 1px solid #343E4D;
+  border-bottom: 1px solid #343E4D;
+  background: rgba(255, 255, 255, 0.02);
+  color: #CAD3E8;
+}
+.TableBodyRow:hover, .TableBodyRow.hovered {
+  border-top: 1px solid #343E4D;
+  border-bottom: 1px solid #343E4D;
+  background: rgba(133, 211, 255, 0.09);
+  color: #FFFFFF;
+}
+
+.TableBodyRow.nohover:hover {
+  border-top: 1px solid #343E4D;
+  border-bottom: 1px solid #343E4D;
+  background: rgba(255, 255, 255, 0.02);
+  color: #CAD3E8;
+}
