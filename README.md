@@ -1,0 +1,2 @@
+# mango-deals
+Test app
